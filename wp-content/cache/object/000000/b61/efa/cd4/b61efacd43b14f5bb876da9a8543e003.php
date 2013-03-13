@@ -1,0 +1,19 @@
+Ù/Q<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":23:{s:2:"ID";s:3:"813";s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2012-07-15 09:23:57";s:13:"post_date_gmt";s:19:"2012-07-15 16:23:57";s:12:"post_content";s:2788:"<p>After much to do about the next opening of DASH Clothing Store, the new DASH store is <strong>OPEN!</strong></p>
+<h1>New DASH Store Grand Opening</h1>
+<p>The new DASH is located in Los Angeles on fashionable Melrose Avenue. Rumors have swirled since March where the fourth DASH clothing store will actually be, but at this point it is safe to say DASH Melrose has arrived!</p>
+
+<img src="https://sphotos-a.xx.fbcdn.net/hphotos-snc7/428949_389373941116056_1793692748_n.jpg" alt="new-dash-store" />
+<h2>Kim Kardashian and Kanye West Appear At New DASH Store Opening</h2>
+
+<p>[caption id="attachment_843" align="alignleft" width="207"]<a href="http://www.dashboutiqueclothing.com/wp-content/uploads/2012/07/new-dash-store-opening.jpg"><img src="http://www.dashboutiqueclothing.com/wp-content/uploads/2012/07/new-dash-store-opening.jpg" alt="new-dash-store-opening" title="New DASH Store" width="207" height="300" class="size-full wp-image-843" /></a> On Friday the 13th the new DASH store opened on Melrose Ave in Los Angeles, California[/caption] On Friday the 13th the new DASH store opened on Melrose Ave in Los Angeles, California[/caption]The grand opening of the new DASH Store started off with some serious hype due to the appearance of new couple Kim Kardashian and Kanye West. Fans of both were in attendance to launch the new DASH store on Melrose Ave in Los Angeles Friday. Kloe Kardashian and mommyger, Kris Jenner were also in attendance, as were legions of there fans who were all going crazy with the buzz of a fourth and new DASH store.</p>
+<blockquote>It was on when Kim tweeted via Twitter on Friday:
+"Dash LA opens today on Melrose!!!" "I'm so excited! We've worked so hard to get this going! Can't wait for you all to see it!"</blockquote>
+
+<p>The new DASH store: aka, DASH Melrose is a prime retail space of 2000 square-foot in DASH boutique California style. The new store is going to be located at 8420 Melrose in Los Angeles. This DASH location is situated in the heart of fashionable shops that the Kardashian sisters are very familiar with. The new DASH Melrose is looking up to be one of them!</p>
+
+[caption id="attachment_849" align="alignleft" width="370"]<a href="http://www.dashboutiqueclothing.com/wp-content/uploads/2012/07/DASH-Melrose.jpg"><img src="http://www.dashboutiqueclothing.com/wp-content/uploads/2012/07/DASH-Melrose.jpg" alt="DASH-Melrose" title="New DASH Store - Melrose" width="370" height="177" class="size-full wp-image-849" /></a> The fourth of the DASH boutique stores has opened on Melrose Ave in LA[/caption]
+
+<p>If you have visited the new DASH store location in Los Angeles, please share your thoughts below.  Thanks!</p>
+
+Check out the latest from <a href="https://www.facebook.com/ShopDASH">DASH on facebook</a>!
+";s:10:"post_title";s:58:"Kardashians Open New DASH Store In LA - 8420 Melrose Ave  ";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:28:"new-dash-store-in-la-melrose";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-07-15 09:29:21";s:17:"post_modified_gmt";s:19:"2012-07-15 16:29:21";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";s:1:"0";s:4:"guid";s:42:"http://www.dashboutiqueclothing.com/?p=813";s:10:"menu_order";s:1:"0";s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"12";}}

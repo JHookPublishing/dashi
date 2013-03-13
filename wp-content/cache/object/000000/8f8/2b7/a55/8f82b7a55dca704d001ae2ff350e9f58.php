@@ -1,0 +1,19 @@
+�/Q<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:130;s:11:"post_author";s:1:"1";s:9:"post_date";s:19:"2011-12-15 19:51:50";s:13:"post_date_gmt";s:19:"2011-12-16 03:51:50";s:12:"post_content";s:2872:"<p>Opened in November of 2010 D-A-S-H Boutique in Soho/Manhattan NYC came into the international spotlight with a grand opening that was seen the world over.  DASH New York was the third of the DASH boutiques and offers more upscale New York fashions.  The popular E! reality-TV series <em>Kim and Kourtney Take New York</em> helped expose DASH New York to the world and the location remains a stopping point for many of New York's local and visiting population.</p>
+<h1>DASH New York</h1>
+<p>DASH New York is located on the cobblestone streets of the SoHo district.  The Boutique is often seen from a distance with small crowds outside the door.  Paparazzi and Celebrities are known to be seen from time to time at DASH New York and this tends to gather small crowds of interested passers bye.  On a typical day the area is fairly quiet and the store is business as usual.</p>
+<p>Kim Kardashian is a big promoter of DASH New York and often tweets about it on the official DASH Twitter <em>@dashboutique</em></p>
+<p>For exact driving directions to DASH New York, double click the map icon below and type your starting location. Click the button on the right to find directions to DASH New York:</p>
+[google-map-v3 width="500" height="500" zoom="13" maptype="ROADMAP" mapalign="center" addresscontent="119 Spring Street, new york, NY, 10012-3816" showmarker="true" animation="BOUNCE" maptypecontrol="true" pancontrol="true" zoomcontrol="true" scalecontrol="true" streetviewcontrol="true" bubbleautopan="false" markerdirections="true" showbike="false" showtraffic="false" showpanoramio="false"]
+<h1>DASH Clothing New York Address – Phone – Hours:</h1>
+<ul>
+  <li>New York DASH Address: 119 Spring St – Manhattan, NY 10012</li>
+    <li>New York DASH NYC Phone Number: (212) 226-2646</li>
+    <li>DASH Boutique New York Hours:</li>
+    <li>Monday – Friday: 11am-6pm</li>
+    <li>Saturday: 11am-5pm</li>
+   <li> Sunday: CLOSED</li>
+</ul>
+<h1>DASH New York Product Line</h1>
+<p>DASH New York product line appeals to upscale New York style. Shoppers at DASH New York can expect to find high-end boutique clothing and accessories including handbags, dresses, boutique jewelry and even tuxedos. Selections of sharp style are in the house of DASH New York. D-A-S-H brand classics are present; however, products at DASH New York / SoHo location are mostly upscale. Tourists and shoppers alike visit this D-A-S-H Boutique daily.  more focused line than the other two DASH stores.  DASH New York is more exclusive attire and has little in the way of everyday casual. DASH New York and other D-A-S-H products are exclusive to those physical locations. You will not find the items from DASH New York online.</p>
+
+See Ratings & Reviews for <a href="http://www.dashboutiqueclothing.com/dash-store-reviews-clothing/dash-nyc-ratings-reviews/">DASH NYC</a> location.";s:10:"post_title";s:13:"DASH New York";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:4:"open";s:11:"ping_status";s:4:"open";s:13:"post_password";s:0:"";s:9:"post_name";s:13:"dash-new-york";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-09-25 15:24:45";s:17:"post_modified_gmt";s:19:"2012-09-25 22:24:45";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:11;s:4:"guid";s:48:"http://www.dashboutiqueclothing.com/?page_id=130";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:2:"18";s:6:"filter";s:3:"raw";}}

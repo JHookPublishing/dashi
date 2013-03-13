@@ -1,0 +1,51 @@
+/*
+Theme Name: Albeo Child
+Description: Child theme for the Albeo theme 
+Author: JHook Publishing
+Template: albeo
+*/
+
+@import url("../albeo/style.css");
+
+/* This will override site title color even on the albeo */
+/* Begin Typography & Colors */
+* { margin: 0; padding: 0; }
+body { background: #fbfbf8 url(images/bkg-body.jpg) no-repeat center top; font: normal 13px "Verdana", sans-serif; margin: 0px; padding: 0px; }
+input, button, textarea, select {  font: normal 13px/13px "Verdana", sans-serif; color:#2d3538; vertical-align: middle; }
+legend { display: none; }
+fieldset { border: none; }
+ul, ol { list-style: none; }
+ol { list-style-type: decimal;}
+table { border-collapse: collapse; width: 100%; }
+hr { display: none; }
+img { padding: 0px; margin: 0px; border: none; text-align: center;}
+
+
+/* Font Adjustments */
+
+.p-con p { font: normal 13px/17px 'Verdana'; padding: 5px 0px; color:#666; }
+.p-con ol li { padding: 2px 0px 2px 0px; font-size: 13px; line-height: 16px; color:#63565f; }
+.p-con ul li { padding: 2px 0px 2px 15px; list-style-type: none; background: url(images/p-con-li.png) no-repeat left top; font-size: 13px; line-height: 16px; color:#63565f; }
+.post-page p { font: normal 13px/17px 'Verdana'; padding: 5px 0px; color:#666; }
+.post-page ol li { padding: 2px 0px 2px 0px; font-size: 13px; line-height: 15px; color:#63565f; }
+.post-page ul li { padding: 2px 0px 2px 13px; list-style-type: none; background: url(images/p-con-li.png) no-repeat left top; font-size: 13px; line-height: 16px; color:#63565f; }
+.post-page blockquote p { font-size: 13px; padding: 0px; margin: 0px; line-height: 18px;}
+.post-page blockquote li { padding: 2px 0px 2px 13px; list-style-type: none; font-size: 13px; line-height: 18px;}
+.nav { overflow: hidden; margin: 0px 0px 10px 0px; font-size: 13px; font-size: 10px; line-height: 12px; font-weight: bold; text-align: right;}
+#respond input { background: #fff; border: 1px solid #c3bfb5; padding: 4px; margin-right: 10px; font-size: 13px; }
+#respond .subscribe-label {
+	font-size: 13px;
+}
+/* Begin Typography & Colors */
+* { margin: 0; padding: 0; }
+body { background: #fbfbf8 url(images/bkg-body.jpg) no-repeat center top; font: normal 12px "Verdana", sans-serif; margin: 0px; padding: 0px; }
+input, button, textarea, select {  font: normal 12px/12px "Verdana", sans-serif; color:#2d3538; vertical-align: middle; }
+/*Slide-Div
+h1.entry-title {
+	background-color:#fffAAA;
+}
+div.entry-content {
+		background-color:#AAAfff;
+}
+.active {
+}*/
