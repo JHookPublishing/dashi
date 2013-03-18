@@ -24,13 +24,13 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 define('DB_NAME', 'dashboutiqueclothing_com');
 
 /** MySQL database username */
-define('DB_USER', 'dashboutiqueclot');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 't8-RdR^-');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'mysql.dashboutiqueclothing.com');
+define('DB_HOST', 'localhost');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
